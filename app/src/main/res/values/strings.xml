@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Twa Demo</string>
     <string name="action_settings">Settings</string>
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://twa-demo.firebaseapp.com\"}
+        }]
+    </string>
 </resources>
